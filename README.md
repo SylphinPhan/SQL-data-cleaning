@@ -1,6 +1,6 @@
 # SQL-data-cleaning
 Dự án này tập trung vào việc làm sạch và chuẩn hóa một tập dữ liệu thành viên, bao gồm các thông tin cá nhân và nghề nghiệp như họ tên, tuổi, tình trạng hôn nhân, email, số điện thoại, địa chỉ, chức danh công việc và ngày đăng ký thành viên. Dữ liệu ban đầu có thể được thu thập từ các biểu mẫu đăng ký hoặc cơ sở dữ liệu khách hàng, và thường gặp các vấn đề như thiếu giá trị, sai định dạng, hoặc không đồng nhất. Trong tài liệu này, chúng tôi sẽ trình bày chi tiết các bước xử lý dữ liệu để biến tập dữ liệu gốc thành phiên bản sạch, sẵn sàng cho phân tích và trực quan hóa.
-
+## Sample data
 |full_name|age|martial_status|email|phone|full_address|job_title|membership_date|
 |---------|---|--------------|-----|-----|------------|---------|---------------|
 |addie lush|40|married|alush0@shutterfly.com|254-389-8708|3226 Eastlawn Pass,Temple,Texas|Assistant Professor|7/31/2013|
